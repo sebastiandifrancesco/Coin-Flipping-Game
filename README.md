@@ -5,8 +5,11 @@ then B, then A,. . . . During a particular player’s turn, the player tosses a 
 die. If the player rolls a:
 
 1: then the player does nothing.
+
 2: then the player takes all coins in the pot.
+
 3: then the player takes half of the coins in the pot (rounded down).
+
 4,5,6: then the player puts a coin in the pot.
 
 A player loses (and the game is over) if they are unable to perform the task (i.e.,
